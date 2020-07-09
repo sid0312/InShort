@@ -1,2 +1,2 @@
 # InShort
-A text summarization proect based on attention networks
+A text summarization project based on attention networks
